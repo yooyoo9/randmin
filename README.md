@@ -1,5 +1,5 @@
 # RandMin Q-learning: Controlling Overestimation Bias
-2021 Reinforcement Learning Course, Project at ETH Zurich, [paper link]()
+2021 Reinforcement Learning Course, Project at ETH Zurich, [paper link](https://github.com/yooyoo9/randmin/blob/main/paper.pdf)
 
 ### Abstract:
 Q-learning is known to suffer from overestimation bias as it approximates the maximum action value using the maximum estimated action value.
